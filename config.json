@@ -1,0 +1,8 @@
+{
+  "host": "10.60.51.10",
+  "port": 8443,
+  "username": "admin",
+  "version": "12.5",
+  "verify_tls": false,
+  "language": "ar"
+}
